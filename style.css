@@ -33,6 +33,7 @@ body {
 .content .quote-area {
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 
 .quote-area i {
